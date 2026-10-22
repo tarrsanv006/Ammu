@@ -28,7 +28,9 @@ Ammu is a personal AI-powered voice assistant built using Python (currently work
 - Cross-device synchronization
 - Offline capabilities
 
-## Goal
+
 **TARRSAN A**
+
 **THIRD YEAR IN MTECH SOFTWARE ENGINEERING**
+
 **VELLORE INSTITUTE OF TECHNOLOGY**
